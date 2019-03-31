@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Example C# Code For Posting to CyberSource APIs
 
-This is sample code to show you how to post to CyberSource web APIs.  This sample is posting to the development environment at `https://apitest.cybersource.com`  From this code, you will be able to create the request headers necessary for your calls to be authorized by CyberSource.  If you're still stuck, read in more details at https://sarn.phamornsuwana.com/c-code-for-cybersource-rest-apis/
+This is sample code to show you how to post to CyberSource web APIs.  This sample is posting to the development environment at `https://apitest.cybersource.com`  From this code, you will be able to create the request headers necessary for your calls to be authorized by CyberSource.  There are some variations that need to be adjusted for calls to other methods and verbs, but the hardest part which is creating the acceptable headers is provided to you in this sample.  If you're still stuck, read in more details at https://sarn.phamornsuwana.com/c-code-for-cybersource-rest-apis/
 
 
 <!-- GETTING STARTED -->
