@@ -12,7 +12,7 @@ You will need to have your merchant Id, secret key, and key Id ready.  Please pu
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The codebase is in .NET Core, since at this time (3/2019) the CyberSource Rest API SDK only works on the .NET Framework.  I'm assuming, most people who will find this sample code useful are those on .NET Core, issues compiling the SDK along with their other NUGETs, deployment workflow or just prefer to utilize the web APIs directly.  Please note that this code is ONLY for learning purposes and proof of concept.  **It is NOT production ready code.**  Please refactor accordingly.
+The codebase is in .NET Core, since at this time (3/2019) the CyberSource Rest API SDK only works on the .NET Framework.  I'm assuming, most people who will find this sample code useful are those on .NET Core, issues compiling the SDK along with their other NUGETs, deployment workflow or just prefer to utilize the web APIs directly.  Please note that this code is ONLY for learning purposes and a proof of concept.  **It is NOT production ready code.**  Please refactor accordingly.
 
 
 <!-- LICENSE -->
