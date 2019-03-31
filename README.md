@@ -7,7 +7,7 @@ This is sample code to show you how to post to CyberSource web APIs.  This sampl
 <!-- GETTING STARTED -->
 ## Getting Started
 
-You will need to have your merchant Id, secret key, and key Id all ready.  
+You will need to have your merchant Id, secret key, and key Id all ready.  Please put the [sample JSON file](rest-sample/json.txt) in your project's bin directory.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
